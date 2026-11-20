@@ -1,0 +1,6 @@
+[
+  { "id": "spark-5.1", "name": "NOVA-Spark-5.1", "repo": "cortex-ai-nova/NOVA-Spark-5.1" },
+  { "id": "acri-j1", "name": "Acri-J1", "repo": "cortex-ai-nova/Acri-J1" },
+  { "id": "spark-4-omni", "name": "NOVA-Spark-4-Omni", "repo": "cortex-ai-nova/NOVA-Spark-4-Omni" },
+  { "id": "tendo-3.8", "name": "NOVA-Tendo-3.8", "repo": "cortex-ai-nova/NOVA-Tendo-3.8" }
+]
