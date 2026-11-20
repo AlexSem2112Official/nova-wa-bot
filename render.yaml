@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: nova-wa-bot
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PAIR_NUMBER
+        value: "77086838924"
+      - key: HF_TOKEN
+        sync: false
